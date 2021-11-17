@@ -75,6 +75,7 @@ defmodule MIME do
     "audio/opus" => ["opus"],
     "audio/wav" => ["wav"],
     "audio/webm" => ["weba"],
+    "audio/x-m4a" => ["m4a"],
     "font/otf" => ["otf"],
     "font/ttf" => ["ttf"],
     "font/woff" => ["woff"],
